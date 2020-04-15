@@ -1,0 +1,8 @@
+.idea
+*.iml
+target
+target/
+
+build
+build/reports
+.json
