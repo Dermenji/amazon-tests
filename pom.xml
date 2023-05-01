@@ -11,7 +11,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <testng.version>7.1.0</testng.version>
+        <testng.version>7.7.0</testng.version>
         <compiler.version>1.8</compiler.version>
         <selenide.version>5.10.0</selenide.version>
         <cucumber.version>4.8.0</cucumber.version>
